@@ -4,7 +4,7 @@ A library of all the resources that will help programmers when stuck or beginnin
 
 ## Getting Started
 Get started with anything you want to with the help of the reources we pooled in here.\
-Your Welcome!
+You are Welcome!
 
 ### Web development
  
