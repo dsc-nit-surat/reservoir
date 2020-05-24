@@ -1,10 +1,8 @@
 ## Reservoir 
-All great men had simple beginnings.\
-A library of all the resources that will help programmers when stuck or beginning something new.
+All great men had simple beginnings.A library of all the resources that will help programmers when stuck or beginning something new.
 
 ## Getting Started
-Get started with anything you want to with the help of the reources we pooled in here.\
-You are Welcome!
+Get started with anything you want to with the help of the reources we pooled in here.You are Welcome!
 
 ### Web development
  
