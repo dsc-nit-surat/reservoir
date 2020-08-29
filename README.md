@@ -20,6 +20,17 @@ Get started with anything you want to with the help of the reources we pooled in
   [The modern javascript tutorial](http://javascript.info/?ref=hackr.io)\
   [Javascript 30](https://javascript30.com/)
 
+### Open Source 
+Get started with open source with the links provided below: 
+
+[Contributing to Kubernetes](https://github.com/kubernetes/community/blob/master/contributors/devel/README.md)  
+[Good-first-issues in kubernetes](https://github.com/search?q=org%3Akubernetes+org%3Akubernetes-sigs+org%3Akubernetes-incubator+org%3Akubernetes-csi+org%3Akubernetes-client+is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22&type=Issues)  
+[Kubernetes sig meeting calendar](https://calendar.google.com/calendar/embed?src=calendar%40kubernetes.io)  
+[OpensShift repos](https://github.c)  
+[Kubernetes & OpenShift meetup India](https://www.meetup.com/kubernetes-openshift-India-Meetup/)  
+[OKD](https://github.com/openshift/okd)  
+[Fedora CoreOS](https://docs.fedoraproject.org/en-US/fedora-coreos/)  
+[Contributing to Fedora](https://fedoramagazine.org/how-to-contribute-to-fedora/)  
 
 ## Contributing
 
