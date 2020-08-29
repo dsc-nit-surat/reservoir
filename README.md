@@ -22,7 +22,7 @@ Get started with anything you want to with the help of the reources we pooled in
   [FreeCodeCamp](https://www.freecodecamp.org/)\
   [React](https://scrimba.com/course/glearnreact/enrolled)
   
-  #### YOUTUBE CHANNELS
+  ##### YOUTUBE CHANNELS
   
   [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
   [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)\
