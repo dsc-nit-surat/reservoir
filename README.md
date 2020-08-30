@@ -12,13 +12,14 @@ Get started with anything you want to with the help of the reources we pooled in
    
    [A practical guide to learning front end development for beginners](https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41/)\
    [A Beginner's Guide to Front-End Development](https://www.upwork.com/hiring/development/beginners-guide-to-front-end-development/)\
-   [Top 50 articles for learning javascript](https://medium.mybridge.co/learn-javascript-from-top-50-articles-for-the-past-year-v-2019-57a26f277f47)
+   [Top 50 articles for learning javascript](https://medium.mybridge.co/learn-javascript-from-top-50-articles-for-the-past-year-v-2019-57a26f277f47)\
+   [Getting prepared in Web-dev skills for Hackathon](https://dev.to/hintiiita/getting-prepped-with-web-development-skills-for-a-hackathon-2a01)
 
   ##### Courses
    
   [Find great javascript course at egghead](https://egghead.io/)\
   [The modern javascript tutorial](http://javascript.info/?ref=hackr.io)\
-  [Javascript 30](https://javascript30.com/)\
+  [Javascript 30](https://javascript30.com/)  
   [FreeCodeCamp](https://www.freecodecamp.org/)\
   [React](https://scrimba.com/course/glearnreact/enrolled)
   
