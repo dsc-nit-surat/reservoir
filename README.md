@@ -28,6 +28,18 @@ Get started with anything you want to with the help of the reources we pooled in
   [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)\
   [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)\
   [MIT Open Courseware](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
+  
+ #### Backend Development
+ 
+  ##### Articles
+  
+  [What-And-Why about Django](https://www.thecoderpedia.com/blog/what-is-django/)\
+  [Best Resources for Django](https://www.trumplearning.com/best-django-tutorial-courses-training-online/)
+  
+  ##### Courses
+  [Django For beginners- 3hours Tutorial](https://youtu.be/OTmQOjsl0eg)\
+  [Step-wise Django for beginners](https://youtu.be/CHjXtRrhqxc)
+ 
 
 ### Open Source 
 Get started with open source with the links provided below: 
