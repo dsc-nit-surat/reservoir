@@ -19,7 +19,7 @@ Get started with anything you want to with the help of the reources we pooled in
    
   [Find great javascript course at egghead](https://egghead.io/)\
   [The modern javascript tutorial](http://javascript.info/?ref=hackr.io)\
-  [Javascript 30](https://javascript30.com/)  
+  [Javascript 30](https://javascript30.com/)\
   [FreeCodeCamp](https://www.freecodecamp.org/)\
   [React](https://scrimba.com/course/glearnreact/enrolled)
   
@@ -63,4 +63,3 @@ Get started with open source with the links provided below:
 
  All the team members of DSC-NIT Surat have contributed to this amazing idea.\
  Cheers to all!
-
