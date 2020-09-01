@@ -19,7 +19,16 @@ Get started with anything you want to with the help of the reources we pooled in
    
   [Find great javascript course at egghead](https://egghead.io/)\
   [The modern javascript tutorial](http://javascript.info/?ref=hackr.io)\
-  [Javascript 30](https://javascript30.com/)
+  [Javascript 30](https://javascript30.com/)\
+  [FreeCodeCamp](https://www.freecodecamp.org/)\
+  [React](https://scrimba.com/course/glearnreact/enrolled)
+  
+  ##### YOUTUBE CHANNELS
+  
+  [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
+  [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)\
+  [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)\
+  [MIT Open Courseware](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
   
  #### Backend Development
  
@@ -54,4 +63,3 @@ Get started with open source with the links provided below:
 
  All the team members of DSC-NIT Surat have contributed to this amazing idea.\
  Cheers to all!
-
