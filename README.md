@@ -4,6 +4,14 @@ All great men had simple beginnings.A library of all the resources that will hel
 ## Getting Started
 Get started with anything you want to with the help of the reources we pooled in here.You are Welcome!
 
+### Python programming
+
+##### Articles
+[Introduction to OOP in Python](https://realpython.com/python3-object-oriented-programming/)
+
+##### Courses
+[OOP in Python - Playlist](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+
 ### Web development
  
  #### Frontend Development
