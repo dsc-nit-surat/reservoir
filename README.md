@@ -39,7 +39,10 @@ Get started with anything you want to with the help of the reources we pooled in
   [MIT Open Courseware](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
   
  #### Backend Development
- 
+  ##### Books
+  [An Introduction to Programming in Go](http://www.golang-book.com/books/intro)
+  
+
   ##### Articles
   
   [What-And-Why about Django](https://www.thecoderpedia.com/blog/what-is-django/)\
@@ -48,6 +51,8 @@ Get started with anything you want to with the help of the reources we pooled in
   ##### Courses
   [Django For beginners- 3hours Tutorial](https://youtu.be/OTmQOjsl0eg)\
   [Step-wise Django for beginners](https://youtu.be/CHjXtRrhqxc)
+  
+  [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=12516s)
  
 
 ### Open Source 
