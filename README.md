@@ -48,7 +48,12 @@ Get started with anything you want to with the help of the reources we pooled in
   ##### Courses
   [Django For beginners- 3hours Tutorial](https://youtu.be/OTmQOjsl0eg)\
   [Step-wise Django for beginners](https://youtu.be/CHjXtRrhqxc)
- 
+
+### Java programming
+  ##### Articles
+  [Learn Java Programming](https://www.programiz.com/java-programming)
+  ##### Courses
+  [Java Tutorial For Beginners (Step by Step tutorial)](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)
 
 ### Open Source 
 Get started with open source with the links provided below: 
