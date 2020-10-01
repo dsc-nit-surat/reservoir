@@ -60,7 +60,20 @@ Get started with anything you want to with the help of the reources we pooled in
    [Flutter state management with bloc from scratch](https://www.youtube.com/watch?v=oxeYeMHVLII)\
    [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)\
    
-
+### Machine Learning
+   ##### Articles
+   [Machine Learning Mastery](https://machinelearningmastery.com/)  
+   [Towards Data Science](https://towardsdatascience.com/)  
+   [ML Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)  
+   [Kaggle(for datasets and competitions)](https://www.kaggle.com/)  
+   ##### Courses
+   [Mathematics for Machine Learning(Coursera specialisation)](https://www.coursera.org/specializations/mathematics-machine-learning)  
+   [Andrew NG(Coursera)](https://www.coursera.org/learn/machine-learning)  
+   [Deep Learning(Coursera Specialisation)](https://www.coursera.org/specializations/deep-learning)  
+   ##### Youtube Channels
+   [StatQuest with Josh Starmer(best for understanding maths behind the algos)](https://www.youtube.com/user/joshstarmer)  
+   [Krish Naik](https://www.youtube.com/user/krishnaik06/featured)  
+   
 ### Java programming
   ##### Articles
   [Learn Java Programming](https://www.programiz.com/java-programming)
@@ -78,6 +91,7 @@ Get started with open source with the links provided below:
 [OKD](https://github.com/openshift/okd)  
 [Fedora CoreOS](https://docs.fedoraproject.org/en-US/fedora-coreos/)  
 [Contributing to Fedora](https://fedoramagazine.org/how-to-contribute-to-fedora/)  
+[Good first issues](https://goodfirstissue.dev/)
 
 ## Contributing
 
