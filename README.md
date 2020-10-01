@@ -71,7 +71,7 @@ Get started with anything you want to with the help of the reources we pooled in
   
 ### Blockchain
 
-  #### Youtube channels
+  ##### Youtube channels
   
   [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 
