@@ -53,12 +53,14 @@ Get started with anything you want to with the help of the reources we pooled in
  
    #### Flutter
    
+   [Flutter open source Apps](https://github.com/tortuvshin/open-source-flutter-apps#tools)
+
    ##### Youtube channels
    
    [Flutter crash course to begin with](https://www.youtube.com/watch?v=x0uinJvhNxI)\
    [Flutter designing practices](https://www.youtube.com/watch?v=WDM5k279Tjw)\
    [Flutter state management with bloc from scratch](https://www.youtube.com/watch?v=oxeYeMHVLII)\
-   [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)\
+   [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
    
 
 ### Java programming
