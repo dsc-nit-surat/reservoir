@@ -49,6 +49,18 @@ Get started with anything you want to with the help of the reources we pooled in
   [Django For beginners- 3hours Tutorial](https://youtu.be/OTmQOjsl0eg)\
   [Step-wise Django for beginners](https://youtu.be/CHjXtRrhqxc)
 
+### App Development 
+ 
+   #### Flutter
+   
+   ##### Youtube channels
+   
+   [Flutter crash course to begin with](https://www.youtube.com/watch?v=x0uinJvhNxI)\
+   [Flutter designing practices](https://www.youtube.com/watch?v=WDM5k279Tjw)\
+   [Flutter state management with bloc from scratch](https://www.youtube.com/watch?v=oxeYeMHVLII)\
+   [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)\
+   
+
 ### Java programming
   ##### Articles
   [Learn Java Programming](https://www.programiz.com/java-programming)
