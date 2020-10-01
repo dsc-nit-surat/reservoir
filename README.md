@@ -17,7 +17,7 @@ Get started with anything you want to with the help of the reources we pooled in
  #### Frontend Development
 
   ##### Articles
-   
+   [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)\
    [A practical guide to learning front end development for beginners](https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41/)\
    [A Beginner's Guide to Front-End Development](https://www.upwork.com/hiring/development/beginners-guide-to-front-end-development/)\
    [Top 50 articles for learning javascript](https://medium.mybridge.co/learn-javascript-from-top-50-articles-for-the-past-year-v-2019-57a26f277f47)\
@@ -47,7 +47,8 @@ Get started with anything you want to with the help of the reources we pooled in
   
   ##### Courses
   [Django For beginners- 3hours Tutorial](https://youtu.be/OTmQOjsl0eg)\
-  [Step-wise Django for beginners](https://youtu.be/CHjXtRrhqxc)
+  [Step-wise Django for beginners](https://youtu.be/CHjXtRrhqxc)\
+  [Node JS Tutorial for Beginners - Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 
 ### App Development 
  
@@ -58,7 +59,7 @@ Get started with anything you want to with the help of the reources we pooled in
    [Flutter crash course to begin with](https://www.youtube.com/watch?v=x0uinJvhNxI)\
    [Flutter designing practices](https://www.youtube.com/watch?v=WDM5k279Tjw)\
    [Flutter state management with bloc from scratch](https://www.youtube.com/watch?v=oxeYeMHVLII)\
-   [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)\
+   [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
    
 
 ### Java programming
@@ -66,6 +67,14 @@ Get started with anything you want to with the help of the reources we pooled in
   [Learn Java Programming](https://www.programiz.com/java-programming)
   ##### Courses
   [Java Tutorial For Beginners (Step by Step tutorial)](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)
+  
+  
+### Blockchain
+
+  #### Youtube channels
+  
+  [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+
 
 ### Open Source 
 Get started with open source with the links provided below: 
