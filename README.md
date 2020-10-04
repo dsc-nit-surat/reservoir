@@ -79,6 +79,24 @@ Get started with open source with the links provided below:
 [Fedora CoreOS](https://docs.fedoraproject.org/en-US/fedora-coreos/)  
 [Contributing to Fedora](https://fedoramagazine.org/how-to-contribute-to-fedora/)  
 
+### Machine Learning
+Following are the links to get started with machine learning:
+  ##### Articles 
+  [Building a machine learning model from scratch](https://medium.com/analytics-vidhya/building-a-machine-learning-model-to-predict-the-price-of-the-car-bc51783ba2f3)
+  [A tour of machine learning algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+  [Machine learning projects for beginners](https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners/397#iris)
+
+  ##### Books
+  [A quick review of the linear algebra concepts relevant to machine learning.](http://www.deeplearningbook.org/contents/linear_algebra.html)
+  [Calculus](http://cs231n.stanford.edu/handouts/derivatives.pdf)
+  [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
+
+  ##### Courses
+  [Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)
+  [Andrew Ng's machine learning course on coursera](https://www.coursera.org/learn/machine-learning)
+  [freecodecamp's courses for machine learning](https://www.freecodecamp.org/learn/)
+  
+
 ## Contributing
 
  Please open a PR and do follow the pattern similar to what's currently there. PR should include the link and a short note describing what the link contains or is about.\
