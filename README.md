@@ -47,6 +47,7 @@ Get started with anything you want to with the help of the reources we pooled in
 
   ##### Articles
 
+  [Flask for Beginners](https://medium.com/datadriveninvestor/flask-for-beginners-3ea6d9849eae)\
   [What-And-Why about Django](https://www.thecoderpedia.com/blog/what-is-django/)\
   [Best Resources for Django](https://www.trumplearning.com/best-django-tutorial-courses-training-online/)
   
