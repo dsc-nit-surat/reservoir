@@ -102,6 +102,24 @@ Get started with open source with the links provided below:
 [Contributing to Fedora](https://fedoramagazine.org/how-to-contribute-to-fedora/)  
 [Good first issues](https://goodfirstissue.dev/)
 
+## All in one repos
+
+These are repos that have various resources for multiple programming languages.
+
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - Get resources for all programming languages and get to know about vim, Linux resources, style-guides, Serverless Security, Internet of Things (IoT), DevOps, Design Patterns and more. The list is endless, go check out the repo.
+
+- [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) - If you want to get resources on Twilio, TensorFlow, TypeScript, Machine learning, Ruby on Rails, Javascript, and more. This repository will help you.
+
+- [Algo Wiki](https://github.com/vicky002/AlgoWiki) - This is like a Wikipedia repo for nearly all programming languages such as c++, python, Javascript, Rust, PHP, Java, and more. You can also get algorithms, machine learning, competitive programming, and more.
+
+- [Front-end checklist](https://github.com/thedaviddias/Front-End-Checklist) - This repository has is a checklist for steps you should take before you launch your website. It includes resources to check your website performance, accessibility, SEO, and more.
+
+- [Free for devs](https://github.com/ripienaar/free-for-dev) - You will get amazing resources to help you build websites from the ground up. Examples: Tools for Teams and Collaboration, CI and CD, Testing, Security and PKI, Management System, and more.
+
+- [Front-end resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents) - This amazing repo has amazing CSS resources, platforms to learning code, youtube channels you should follow, blogs to follow, and VsCode extension to install to make your life easier.
+
+- [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
+
 ## Contributing
 
  Please open a PR and do follow the pattern similar to what's currently there. PR should include the link and a short note describing what the link contains or is about.\
