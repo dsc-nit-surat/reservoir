@@ -14,11 +14,11 @@ Get started with anything you want to with the help of the reources we pooled in
 
 ### Competitive Coding
  ##### Articles
-[Best website for beginner in CP](https://www.geeksforgeeks.org/category/competitive-programming/)
+[Best website for beginner in CP](https://www.geeksforgeeks.org/category/competitive-programming/)\
 [Algorithms for CP](https://cp-algorithms.com/)
 
  ##### Practice
-[Hackerearth](https://www.hackerearth.com/practice/)
+[Hackerearth](https://www.hackerearth.com/practice/)\
 [codeforces contests](https://codeforces.com/contests)
 
 ### Web development
