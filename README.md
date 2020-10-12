@@ -55,6 +55,7 @@ Get started with anything you want to with the help of the reources we pooled in
   [Django For beginners- 3hours Tutorial](https://youtu.be/OTmQOjsl0eg)\
   [Step-wise Django for beginners](https://youtu.be/CHjXtRrhqxc)\
   [Node JS Tutorial for Beginners - Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)\
+  [Web Programming with Flask - Intro to Computer Science - Harvard's CS50 (2018)](https://www.youtube.com/watch?v=zdgYw-3tzfI)\
   [CS50's Web Programming with Python and JavaScript](edx.org/course/cs50s-web-programming-with-python-and-javascript)\
   [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 
