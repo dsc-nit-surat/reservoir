@@ -12,6 +12,15 @@ Get started with anything you want to with the help of the reources we pooled in
 ##### Courses
 [OOP in Python - Playlist](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
+### Competitive Coding
+ ##### Articles
+[Best website for beginner in CP](https://www.geeksforgeeks.org/category/competitive-programming/)\
+[Algorithms for CP](https://cp-algorithms.com/)
+
+ ##### Practice
+[Hackerearth](https://www.hackerearth.com/practice/)\
+[codeforces contests](https://codeforces.com/contests)
+
 ### Web development
  
  #### Frontend Development
