@@ -39,16 +39,26 @@ Get started with anything you want to with the help of the reources we pooled in
   [MIT Open Courseware](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
   
  #### Backend Development
- 
+
+  ##### Documentation
+
+  [Flask Documentation](http://flask.pocoo.org/)\
+  [Django Documentation](https://docs.djangoproject.com/en/2.2/)
+
   ##### Articles
-  
+
+  [Flask for Beginners](https://medium.com/datadriveninvestor/flask-for-beginners-3ea6d9849eae)\
   [What-And-Why about Django](https://www.thecoderpedia.com/blog/what-is-django/)\
   [Best Resources for Django](https://www.trumplearning.com/best-django-tutorial-courses-training-online/)
   
   ##### Courses
+
   [Django For beginners- 3hours Tutorial](https://youtu.be/OTmQOjsl0eg)\
   [Step-wise Django for beginners](https://youtu.be/CHjXtRrhqxc)\
-  [Node JS Tutorial for Beginners - Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+  [Node JS Tutorial for Beginners - Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)\
+  [Web Programming with Flask - Intro to Computer Science - Harvard's CS50 (2018)](https://www.youtube.com/watch?v=zdgYw-3tzfI)\
+  [CS50's Web Programming with Python and JavaScript](edx.org/course/cs50s-web-programming-with-python-and-javascript)\
+  [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 
 ### App Development 
  
