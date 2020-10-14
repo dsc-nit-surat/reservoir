@@ -12,6 +12,15 @@ Get started with anything you want to with the help of the reources we pooled in
 ##### Courses
 [OOP in Python - Playlist](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
+### Competitive Coding
+ ##### Articles
+[Best website for beginner in CP](https://www.geeksforgeeks.org/category/competitive-programming/)\
+[Algorithms for CP](https://cp-algorithms.com/)
+
+ ##### Practice
+[Hackerearth](https://www.hackerearth.com/practice/)\
+[codeforces contests](https://codeforces.com/contests)
+
 ### Web development
 
  #### Frontend Development
@@ -40,15 +49,26 @@ Get started with anything you want to with the help of the reources we pooled in
 
  #### Backend Development
 
+
+  ##### Documentation
+
+  [Flask Documentation](http://flask.pocoo.org/)\
+  [Django Documentation](https://docs.djangoproject.com/en/2.2/)
+
   ##### Articles
 
+  [Flask for Beginners](https://medium.com/datadriveninvestor/flask-for-beginners-3ea6d9849eae)\
   [What-And-Why about Django](https://www.thecoderpedia.com/blog/what-is-django/)\
   [Best Resources for Django](https://www.trumplearning.com/best-django-tutorial-courses-training-online/)
 
   ##### Courses
+
   [Django For beginners- 3hours Tutorial](https://youtu.be/OTmQOjsl0eg)\
   [Step-wise Django for beginners](https://youtu.be/CHjXtRrhqxc)\
-  [Node JS Tutorial for Beginners - Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+  [Node JS Tutorial for Beginners - Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)\
+  [Web Programming with Flask - Intro to Computer Science - Harvard's CS50 (2018)](https://www.youtube.com/watch?v=zdgYw-3tzfI)\
+  [CS50's Web Programming with Python and JavaScript](edx.org/course/cs50s-web-programming-with-python-and-javascript)\
+  [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 
 ### App Development
 
@@ -62,7 +82,7 @@ Get started with anything you want to with the help of the reources we pooled in
    [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
 
    #### Java Based
-   These are courses provided by google and are free on Udacity.
+   These are courses provided by google and are free on Udacity.\
    [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)\
    [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)\
    [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)\
@@ -109,6 +129,42 @@ Get started with open source with the links provided below:
 [Fedora CoreOS](https://docs.fedoraproject.org/en-US/fedora-coreos/)  
 [Contributing to Fedora](https://fedoramagazine.org/how-to-contribute-to-fedora/)  
 [Good first issues](https://goodfirstissue.dev/)
+
+### All in one repos
+
+These are repos that have various resources for multiple programming languages.
+
+[Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - Get resources for all programming languages and get to know about vim, Linux resources, style-guides, Serverless Security, Internet of Things (IoT), DevOps, Design Patterns and more. The list is endless, go check out the repo.
+
+[Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) - If you want to get resources on Twilio, TensorFlow, TypeScript, Machine learning, Ruby on Rails, Javascript, and more. This repository will help you.
+
+[Algo Wiki](https://github.com/vicky002/AlgoWiki) - This is like a Wikipedia repo for nearly all programming languages such as c++, python, Javascript, Rust, PHP, Java, and more. You can also get algorithms, machine learning, competitive programming, and more.
+
+[Front-end checklist](https://github.com/thedaviddias/Front-End-Checklist) - This repository has is a checklist for steps you should take before you launch your website. It includes resources to check your website performance, accessibility, SEO, and more.
+
+[Free for devs](https://github.com/ripienaar/free-for-dev) - You will get amazing resources to help you build websites from the ground up. Examples: Tools for Teams and Collaboration, CI and CD, Testing, Security and PKI, Management System, and more.
+
+[Front-end resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents) - This amazing repo has amazing CSS resources, platforms to learning code, youtube channels you should follow, blogs to follow, and VsCode extension to install to make your life easier.
+
+[List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
+
+### Machine Learning
+Following are the links to get started with machine learning:
+  ##### Articles 
+  [Building a machine learning model from scratch](https://medium.com/analytics-vidhya/building-a-machine-learning-model-to-predict-the-price-of-the-car-bc51783ba2f3)\
+  [A tour of machine learning algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)\
+  [Machine learning projects for beginners](https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners/397#iris)\
+
+  ##### Books
+  [A quick review of the linear algebra concepts relevant to machine learning.](http://www.deeplearningbook.org/contents/linear_algebra.html)\
+  [Calculus](http://cs231n.stanford.edu/handouts/derivatives.pdf)\
+  [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)\
+
+  ##### Courses
+  [Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)\
+  [Andrew Ng's machine learning course on coursera](https://www.coursera.org/learn/machine-learning)\
+  [freecodecamp's courses for machine learning](https://www.freecodecamp.org/learn/)\
+  
 
 ## Contributing
 
