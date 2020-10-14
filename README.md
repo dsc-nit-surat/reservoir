@@ -1,4 +1,4 @@
-## Reservoir 
+## Reservoir
 All great men had simple beginnings.A library of all the resources that will help programmers when stuck or beginning something new.
 
 ## Getting Started
@@ -22,7 +22,7 @@ Get started with anything you want to with the help of the reources we pooled in
 [codeforces contests](https://codeforces.com/contests)
 
 ### Web development
- 
+
  #### Frontend Development
 
   ##### Articles
@@ -33,21 +33,22 @@ Get started with anything you want to with the help of the reources we pooled in
    [Getting prepared in Web-dev skills for Hackathon](https://dev.to/hintiiita/getting-prepped-with-web-development-skills-for-a-hackathon-2a01)
 
   ##### Courses
-   
+
   [Find great javascript course at egghead](https://egghead.io/)\
   [The modern javascript tutorial](http://javascript.info/?ref=hackr.io)\
   [Javascript 30](https://javascript30.com/)\
   [FreeCodeCamp](https://www.freecodecamp.org/)\
   [React](https://scrimba.com/course/glearnreact/enrolled)
-  
+
   ##### YOUTUBE CHANNELS
-  
+
   [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
   [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)\
   [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)\
   [MIT Open Courseware](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
-  
+
  #### Backend Development
+
 
   ##### Documentation
 
@@ -59,7 +60,7 @@ Get started with anything you want to with the help of the reources we pooled in
   [Flask for Beginners](https://medium.com/datadriveninvestor/flask-for-beginners-3ea6d9849eae)\
   [What-And-Why about Django](https://www.thecoderpedia.com/blog/what-is-django/)\
   [Best Resources for Django](https://www.trumplearning.com/best-django-tutorial-courses-training-online/)
-  
+
   ##### Courses
 
   [Django For beginners- 3hours Tutorial](https://youtu.be/OTmQOjsl0eg)\
@@ -69,17 +70,25 @@ Get started with anything you want to with the help of the reources we pooled in
   [CS50's Web Programming with Python and JavaScript](edx.org/course/cs50s-web-programming-with-python-and-javascript)\
   [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 
-### App Development 
- 
+### App Development
+
    #### Flutter
-   
+
    ##### Youtube channels
-   
+
    [Flutter crash course to begin with](https://www.youtube.com/watch?v=x0uinJvhNxI)\
    [Flutter designing practices](https://www.youtube.com/watch?v=WDM5k279Tjw)\
    [Flutter state management with bloc from scratch](https://www.youtube.com/watch?v=oxeYeMHVLII)\
    [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
-   
+
+   #### Java Based
+   These are courses provided by google and are free on Udacity.\
+   [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)\
+   [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)\
+   [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)\
+   [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)\
+   [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)\
+   [Android Developer Fundamentals](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB)
 ### Machine Learning
    ##### Articles
    [Machine Learning Mastery](https://machinelearningmastery.com/)  
@@ -93,23 +102,23 @@ Get started with anything you want to with the help of the reources we pooled in
    ##### Youtube Channels
    [StatQuest with Josh Starmer(best for understanding maths behind the algos)](https://www.youtube.com/user/joshstarmer)  
    [Krish Naik](https://www.youtube.com/user/krishnaik06/featured)  
-   
+
 ### Java programming
   ##### Articles
   [Learn Java Programming](https://www.programiz.com/java-programming)
   ##### Courses
   [Java Tutorial For Beginners (Step by Step tutorial)](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)
-  
-  
+
+
 ### Blockchain
 
   ##### Youtube channels
-  
+
   [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 
 
-### Open Source 
-Get started with open source with the links provided below: 
+### Open Source
+Get started with open source with the links provided below:
 
 [Contributing to Kubernetes](https://github.com/kubernetes/community/blob/master/contributors/devel/README.md)  
 [Good-first-issues in kubernetes](https://github.com/search?q=org%3Akubernetes+org%3Akubernetes-sigs+org%3Akubernetes-incubator+org%3Akubernetes-csi+org%3Akubernetes-client+is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22&type=Issues)  
