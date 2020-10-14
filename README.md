@@ -79,8 +79,10 @@ Get started with anything you want to with the help of the reources we pooled in
    [Flutter crash course to begin with](https://www.youtube.com/watch?v=x0uinJvhNxI)\
    [Flutter designing practices](https://www.youtube.com/watch?v=WDM5k279Tjw)\
    [Flutter state management with bloc from scratch](https://www.youtube.com/watch?v=oxeYeMHVLII)\
-   [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
-
+   [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)\
+   For examples:\
+   [The flutter way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw/featured)\
+   [Flutter Example apps](https://github.com/iampawan/FlutterExampleApps)
    #### Java Based
    These are courses provided by google and are free on Udacity.\
    [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)\
