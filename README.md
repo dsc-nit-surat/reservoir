@@ -189,7 +189,33 @@ Following are the links to get started with machine learning:
   [Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)\
   [Andrew Ng's machine learning course on coursera](https://www.coursera.org/learn/machine-learning)\
   [freecodecamp's courses for machine learning](https://www.freecodecamp.org/learn/)\
-  
+
+
+### Algorithmic-trading
+
+#### Tutorials
+- [Algorithmic Trading Strategies](https://www.experfy.com/training/courses/algorithmic-trading-strategies)
+- [Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880) 
+- [MIT Open Courseware - Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+- [Machine Learning and Reinforcement Learning in Finance Specialization](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
+- [Machin Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+- [Model a Quantitative Trading Strategy in R](https://www.datacamp.com/courses/model-a-quantitative-trading-strategy-in-r/) 
+
+#### Articles
+
+- [Betting Against Beta](http://pages.stern.nyu.edu/~lpederse/papers/BettingAgainstBeta.pdf)
+- [Momentum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=299107)
+
+#### Books
+
+- [Building Winning Algorithmic Trading Systems, + Website: A Trader's Journey From Data Mining to Monte Carlo Simulation to Live Trading (Wiley Trading)](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems/dp/1118778987/ref=sr_1_1?s=books&ie=UTF8&qid=1538798383&sr=1-1&keywords=Building+Winning+Algorithmic+Trading+Systems%2C+%2B+Website%3A+A+Trader%27s+Journey+From+Data+Mining+to+Monte+Carlo+Simulation+to+Live+Trading+%28Wiley+Trading)
+- [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_1?ie=UTF8&qid=1538798436&sr=8-1&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow)
+- [Python for Finance: Analyze Big Financial Data](https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333/ref=sr_1_4?ie=UTF8&qid=1538798406&sr=8-4&keywords=python+for+finance)
+- [Quantitative Investing: Strategies to exploit stock market anomalies for all investors](https://www.amazon.com/Quantitative-Investing-Strategies-anomalies-investors/dp/0857193007/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+
+#### Communities
+- [The Python Quants Group](http://tpq.io/)
+- [Quantopian](https://www.quantopian.com/home)
 
 ## Contributing
 
