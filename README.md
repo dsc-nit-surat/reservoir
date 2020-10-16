@@ -4,6 +4,9 @@ All great men had simple beginnings.A library of all the resources that will hel
 ## Getting Started
 Get started with anything you want to with the help of the reources we pooled in here.You are Welcome!
 
+### Basic tools and command line
+[The Missing Semester of Your CS Education - MIT](https://missing.csail.mit.edu/)
+
 ### Python programming
 
 ##### Articles
@@ -12,6 +15,10 @@ Get started with anything you want to with the help of the reources we pooled in
 ##### Courses
 [OOP in Python - Playlist](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
+#### Books
+[Learn Python the Hard Way](https://files.meetup.com/18552511/Learn%20Python%20The%20Hard%20Way%203rd%20Edition%20V413HAV.pdf)\
+[Head-First Python](https://www.pdfdrive.com/head-first-python-a-brain-friendly-guide-e183836129.html)
+
 ### Competitive Coding
  ##### Articles
 [Best website for beginner in CP](https://www.geeksforgeeks.org/category/competitive-programming/)\
@@ -19,7 +26,9 @@ Get started with anything you want to with the help of the reources we pooled in
 
  ##### Practice
 [Hackerearth](https://www.hackerearth.com/practice/)\
-[codeforces contests](https://codeforces.com/contests)
+[codeforces contests](https://codeforces.com/contests)\
+[codechef](https://www.codechef.com/problems/school/?itm_medium=navmenu&itm_campaign=problems)\
+[Hackerrank](https://www.hackerrank.com/)
 
 ### Web development
 
@@ -38,7 +47,8 @@ Get started with anything you want to with the help of the reources we pooled in
   [The modern javascript tutorial](http://javascript.info/?ref=hackr.io)\
   [Javascript 30](https://javascript30.com/)\
   [FreeCodeCamp](https://www.freecodecamp.org/)\
-  [React](https://scrimba.com/course/glearnreact/enrolled)
+  [React](https://scrimba.com/course/glearnreact/enrolled)\
+  [The Odin Project](https://www.theodinproject.com/)
 
   ##### YOUTUBE CHANNELS
 
@@ -49,11 +59,15 @@ Get started with anything you want to with the help of the reources we pooled in
 
  #### Backend Development
 
-
+  #### Youtube playlist
+  
+  [Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+  
   ##### Documentation
 
   [Flask Documentation](http://flask.pocoo.org/)\
-  [Django Documentation](https://docs.djangoproject.com/en/2.2/)
+  [Django Documentation](https://docs.djangoproject.com/en/2.2/)\
+  [Node JS Documentation](https://nodejs.org/en/docs/)
 
   ##### Articles
 
@@ -73,7 +87,7 @@ Get started with anything you want to with the help of the reources we pooled in
 ### App Development
 
    #### Flutter
-
+   
    ##### Youtube channels
 
    [Flutter crash course to begin with](https://www.youtube.com/watch?v=x0uinJvhNxI)\
@@ -81,6 +95,9 @@ Get started with anything you want to with the help of the reources we pooled in
    [Flutter state management with bloc from scratch](https://www.youtube.com/watch?v=oxeYeMHVLII)\
    [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
 
+   #### Documentation
+   
+   [Flutter Documentation](https://flutter.dev/docs)
    #### Java Based
    These are courses provided by google and are free on Udacity.\
    [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)\
