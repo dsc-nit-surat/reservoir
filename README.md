@@ -50,7 +50,7 @@ Get started with anything you want to with the help of the reources we pooled in
   [React](https://scrimba.com/course/glearnreact/enrolled)\
   [The Odin Project](https://www.theodinproject.com/)
 
-  ##### YOUTUBE CHANNELS
+  ##### Youtube Channels
 
   [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
   [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)\
@@ -59,7 +59,7 @@ Get started with anything you want to with the help of the reources we pooled in
 
  #### Backend Development
 
-  #### Youtube playlist
+  ##### Youtube playlist
   
   [Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
   
@@ -106,6 +106,7 @@ Get started with anything you want to with the help of the reources we pooled in
    [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)\
    [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)\
    [Android Developer Fundamentals](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB)
+
 ### Machine Learning
    ##### Articles
    [Machine Learning Mastery](https://machinelearningmastery.com/)  
@@ -121,6 +122,7 @@ Get started with anything you want to with the help of the reources we pooled in
    [Krish Naik](https://www.youtube.com/user/krishnaik06/featured)  
 
 ### Java programming
+
   ##### Articles
   [Learn Java Programming](https://www.programiz.com/java-programming)
   ##### Courses
@@ -130,8 +132,13 @@ Get started with anything you want to with the help of the reources we pooled in
 ### Blockchain
 
   ##### Youtube channels
-
   [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+  [Blockchain bootcamp of consensys](https://github.com/AemieJ/blockchain-bootcamp/settings) 
+
+
+### UI-UX 
+  [The ultimate figma course](https://www.figma.com/resources/courses/)  
+  [The ultimate sketch course](https://learnux.io/course/sketch/welcome-to-sketch)  
 
 
 ### Open Source
@@ -167,6 +174,7 @@ These are repos that have various resources for multiple programming languages.
 
 ### Machine Learning
 Following are the links to get started with machine learning:
+
   ##### Articles 
   [Building a machine learning model from scratch](https://medium.com/analytics-vidhya/building-a-machine-learning-model-to-predict-the-price-of-the-car-bc51783ba2f3)\
   [A tour of machine learning algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)\
