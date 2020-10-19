@@ -23,7 +23,7 @@ Get started with anything you want to with the help of the reources we pooled in
 #### Books
 
 [Learn Python the Hard Way](https://files.meetup.com/18552511/Learn%20Python%20The%20Hard%20Way%203rd%20Edition%20V413HAV.pdf)\
-[Head-First Python](https://www.pdfdrive.com/head-first-python-a-brain-friendly-guide-e183836129.html)
+[Head-First Python](https://www.pdfdrive.com/head-first-python-a-brain-friendly-guide-e183836129.html)\
 [Automate the Boring stuff with Python](https://web.bii.a-star.edu.sg/~liangzhu/2017/11/02/linuxcommandline/automatetheboringstuffwithpython_new.pdf)
 
 ### Competitive Coding
@@ -54,10 +54,10 @@ Get started with anything you want to with the help of the reources we pooled in
 
 ##### Documentation
 
-[w3schools.com --HTML Tutorials](https://www.w3schools.com/html/default.asp)
-[w3schools.com --CSS Tutorials](https://www.w3schools.com/css/default.asp)
-[A re-introduction to JS(This really covers everything you need to recall about JS)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-[React -A JS library for building UI](https://reactjs.org/docs/getting-started.html)
+[w3schools.com --HTML Tutorials](https://www.w3schools.com/html/default.asp)\
+[w3schools.com --CSS Tutorials](https://www.w3schools.com/css/default.asp)\
+[A re-introduction to JS(This really covers everything you need to recall about JS)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)\
+[React -A JS library for building UI](https://reactjs.org/docs/getting-started.html)\
 
 ##### Courses
 
@@ -73,7 +73,7 @@ Get started with anything you want to with the help of the reources we pooled in
 [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
  [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)\
  [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)\
- [MIT Open Courseware](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
+ [MIT Open Courseware](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)\
 [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
 
 #### Backend Development
@@ -136,15 +136,15 @@ These are courses provided by google and are free on Udacity.\
 
 ##### Articles
 
-[Machine Learning Mastery](https://machinelearningmastery.com/)  
- [Towards Data Science](https://towardsdatascience.com/)  
- [ML Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)  
+[Machine Learning Mastery](https://machinelearningmastery.com/)\  
+ [Towards Data Science](https://towardsdatascience.com/)  \
+ [ML Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)\  
  [Kaggle(for datasets and competitions)](https://www.kaggle.com/)
 
 ##### Courses
 
-[Mathematics for Machine Learning(Coursera specialisation)](https://www.coursera.org/specializations/mathematics-machine-learning)  
- [Andrew NG(Coursera)](https://www.coursera.org/learn/machine-learning)  
+[Mathematics for Machine Learning(Coursera specialisation)](https://www.coursera.org/specializations/mathematics-machine-learning) \ 
+ [Andrew NG(Coursera)](https://www.coursera.org/learn/machine-learning)  \
  [Deep Learning(Coursera Specialisation)](https://www.coursera.org/specializations/deep-learning)
 
 ##### Youtube Channels
@@ -156,12 +156,12 @@ These are courses provided by google and are free on Udacity.\
 
 ##### Articles
 
-[Learn Java Programming](https://www.programiz.com/java-programming)
+[Learn Java Programming](https://www.programiz.com/java-programming)\
 [Javatpoint](https://www.javatpoint.com/java-tutorial)
 
 ##### Courses
 
-[Java Tutorial For Beginners (Step by Step tutorial)](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)
+[Java Tutorial For Beginners (Step by Step tutorial)](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)\
 [Java DSA Placement course (From Basics to Intermediate) ](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
 
 ### Blockchain
