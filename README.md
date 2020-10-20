@@ -24,6 +24,10 @@ Get started with anything you want to with the help of the reources we pooled in
 [Best website for beginner in CP](https://www.geeksforgeeks.org/category/competitive-programming/)\
 [Algorithms for CP](https://cp-algorithms.com/)
 
+ ##### Courses
+  [C++ Full course - Data Structures and Algo](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA/playlists)
+      -> [Timeline for above course](https://drive.google.com/file/d/1CxGfGFRH6nuOIvg496ZX9KwnQNljAEVj/view)
+
  ##### Practice
 [Hackerearth](https://www.hackerearth.com/practice/)\
 [codeforces contests](https://codeforces.com/contests)\
