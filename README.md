@@ -17,7 +17,8 @@ Get started with anything you want to with the help of the reources we pooled in
 
 #### Books
 [Learn Python the Hard Way](https://files.meetup.com/18552511/Learn%20Python%20The%20Hard%20Way%203rd%20Edition%20V413HAV.pdf)\
-[Head-First Python](https://www.pdfdrive.com/head-first-python-a-brain-friendly-guide-e183836129.html)
+[Head-First Python](https://www.pdfdrive.com/head-first-python-a-brain-friendly-guide-e183836129.html)\
+[React Quickly](https://www.pdfdrive.com/react-quickly-painless-web-apps-with-react-jsx-redux-and-graphql-d158280067.html)
 
 ### Competitive Coding
  ##### Articles
