@@ -20,6 +20,10 @@ Get started with anything you want to with the help of the reources we pooled in
 [Head-First Python](https://www.pdfdrive.com/head-first-python-a-brain-friendly-guide-e183836129.html)\
 [React Quickly](https://www.pdfdrive.com/react-quickly-painless-web-apps-with-react-jsx-redux-and-graphql-d158280067.html)
 
+#### python development
+[30 days of python](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6)\
+[sentdex python tutorial](https://www.youtube.com/user/sentdex)
+
 ### Competitive Coding
  ##### Articles
 [Best website for beginner in CP](https://www.geeksforgeeks.org/category/competitive-programming/)\
@@ -122,10 +126,27 @@ Get started with anything you want to with the help of the reources we pooled in
    [Towards Data Science](https://towardsdatascience.com/)  
    [ML Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)  
    [Kaggle(for datasets and competitions)](https://www.kaggle.com/)  
+   
+   ##### Roadmap for machine learning and deep learning
+   [roadmap ppt](https://drive.google.com/file/d/1k-0IVFoalJScWopjhneJG63iPoGF-QY-/view?usp=sharing)
+   
    ##### Courses
    [Mathematics for Machine Learning(Coursera specialisation)](https://www.coursera.org/specializations/mathematics-machine-learning)  
    [Andrew NG(Coursera)](https://www.coursera.org/learn/machine-learning)  
    [Deep Learning(Coursera Specialisation)](https://www.coursera.org/specializations/deep-learning)  
+   
+   ##### NLP specialization
+   [deeplearning.ai NLP specialization course](https://www.coursera.org/specializations/natural-language-processing?)
+   
+   ##### Reinforcement learning specialization
+   [coursera reinforcement learning course](https://www.coursera.org/specializations/reinforcement-learning?)
+   [deep reinforcement learning](https://www.udemy.com/course/deep-reinforcement-learning-in-python/)
+   
+   ##### Generative adversarial networks
+   [coursera gans specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+   [Ian goodfellow 2016- NIPS tutorial](https://youtu.be/HGYYEUSm-0Q)
+   [comprehensive guide and resources for gans](https://github.com/sarvasvkulpati/Awesome-GAN-Resources)
+   
    ##### Youtube Channels
    [StatQuest with Josh Starmer(best for understanding maths behind the algos)](https://www.youtube.com/user/joshstarmer)  
    [Krish Naik](https://www.youtube.com/user/krishnaik06/featured)  
