@@ -58,7 +58,7 @@ Get started with anything you want to with the help of the reources we pooled in
   [FreeCodeCamp](https://www.freecodecamp.org/)\
   [React](https://scrimba.com/course/glearnreact/enrolled)\
   [The Odin Project](https://www.theodinproject.com/)
-
+  [App Brewery course resources](https://www.appbrewery.co/p/web-development-course-resources/)
   ##### Youtube Channels
 
   [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
@@ -169,7 +169,7 @@ Get started with anything you want to with the help of the reources we pooled in
 ### UI-UX 
   [The ultimate figma course](https://www.figma.com/resources/courses/)  
   [The ultimate sketch course](https://learnux.io/course/sketch/welcome-to-sketch)  
-
+  
 
 ### Open Source
 Get started with open source with the links provided below:
@@ -183,7 +183,7 @@ Get started with open source with the links provided below:
 [Fedora CoreOS](https://docs.fedoraproject.org/en-US/fedora-coreos/)  
 [Contributing to Fedora](https://fedoramagazine.org/how-to-contribute-to-fedora/)  
 [Good first issues](https://goodfirstissue.dev/)
-
+[Version control with Git](https://www.udacity.com/course/version-control-with-git--ud123)-Free course on udacity for getting started with git.
 ### All in one repos
 
 These are repos that have various resources for multiple programming languages.
@@ -201,6 +201,11 @@ These are repos that have various resources for multiple programming languages.
 [Front-end resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents) - This amazing repo has amazing CSS resources, platforms to learning code, youtube channels you should follow, blogs to follow, and VsCode extension to install to make your life easier.
 
 [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
+
+[ACM ICPC Codebook](https://github.com/t3nsor/codebook)-This notebook is intended as reference material for a team participating in the
+ACM-ICPC World Finals or any regional competition.
+
+[Linux-101-challenge](https://github.com/acm-svnit/linux-101-challenge) - Attempt this challenge and get started with Linux
 
 ### Machine Learning
 Following are the links to get started with machine learning:
@@ -246,6 +251,15 @@ Following are the links to get started with machine learning:
 #### Communities
 - [The Python Quants Group](http://tpq.io/)
 - [Quantopian](https://www.quantopian.com/home)
+
+### Cheatsheets
+
+- [Bootstrap](https://drive.google.com/file/d/1GG6Qiae33HCol8me6n6M6yH3FgyGAjou/view?usp=sharing)
+- [Git](https://drive.google.com/file/d/1b4WhgYTtUYSfoLBVxPMsvnHIXFn-F0ia/view?usp=sharing)
+- [Heroku](https://drive.google.com/file/d/1qY5VhL-o7p0TMT_ryAQNF0OKOu4Gkl1L/view?usp=sharing)
+- [NPM](https://drive.google.com/file/d/1DYpWla2h9ePVVO5I7hMfuFl6snRHwva9/view?usp=sharing)
+- [Terminal](https://drive.google.com/file/d/1C8jz5yKFETmGlsx1j81q4KHalSGM2F2t/view?usp=sharing)
+- [VSCode](https://drive.google.com/file/d/1OoxkQfsQ4AN6GLnOXOXMmLj1Wt1HSdev/view?usp=sharing)
 
 ## Contributing
 
