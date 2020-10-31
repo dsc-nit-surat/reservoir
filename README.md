@@ -25,6 +25,11 @@ Get started with anything you want to with the help of the reources we pooled in
 [Learn Python the Hard Way](https://files.meetup.com/18552511/Learn%20Python%20The%20Hard%20Way%203rd%20Edition%20V413HAV.pdf)\
 [Head-First Python](https://www.pdfdrive.com/head-first-python-a-brain-friendly-guide-e183836129.html)\
 [Automate the Boring stuff with Python](https://web.bii.a-star.edu.sg/~liangzhu/2017/11/02/linuxcommandline/automatetheboringstuffwithpython_new.pdf)
+[React Quickly](https://www.pdfdrive.com/react-quickly-painless-web-apps-with-react-jsx-redux-and-graphql-d158280067.html)
+
+#### python development
+[30 days of python](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6)\
+[sentdex python tutorial](https://www.youtube.com/user/sentdex)
 
 ### Competitive Coding
 
@@ -33,8 +38,11 @@ Get started with anything you want to with the help of the reources we pooled in
 [Best website for beginner in CP](https://www.geeksforgeeks.org/category/competitive-programming/)\
 [Algorithms for CP](https://cp-algorithms.com/)
 
-##### Practice
+ ##### Courses
+  [C++ Full course - Data Structures and Algo](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA/playlists)
+      -> [Timeline for above course](https://drive.google.com/file/d/1CxGfGFRH6nuOIvg496ZX9KwnQNljAEVj/view)
 
+ ##### Practice
 [Hackerearth](https://www.hackerearth.com/practice/)\
 [codeforces contests](https://codeforces.com/contests)\
 [codechef](https://www.codechef.com/problems/school/?itm_medium=navmenu&itm_campaign=problems)\
@@ -66,7 +74,8 @@ Get started with anything you want to with the help of the reources we pooled in
  [Javascript 30](https://javascript30.com/)\
  [FreeCodeCamp](https://www.freecodecamp.org/)\
  [React](https://scrimba.com/course/glearnreact/enrolled)\
- [The Odin Project](https://www.theodinproject.com/)
+ [The Odin Project](https://www.theodinproject.com/)\
+ [App Brewery course resources](https://www.appbrewery.co/p/web-development-course-resources/)
 
 ##### Youtube Channels
 
@@ -134,23 +143,35 @@ These are courses provided by google and are free on Udacity.\
 
 ### Machine Learning
 
-##### Articles
-
-[Machine Learning Mastery](https://machinelearningmastery.com/)\  
- [Towards Data Science](https://towardsdatascience.com/)  \
- [ML Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)\  
- [Kaggle(for datasets and competitions)](https://www.kaggle.com/)
-
-##### Courses
-
-[Mathematics for Machine Learning(Coursera specialisation)](https://www.coursera.org/specializations/mathematics-machine-learning) \ 
- [Andrew NG(Coursera)](https://www.coursera.org/learn/machine-learning)  \
- [Deep Learning(Coursera Specialisation)](https://www.coursera.org/specializations/deep-learning)
-
-##### Youtube Channels
-
-[StatQuest with Josh Starmer(best for understanding maths behind the algos)](https://www.youtube.com/user/joshstarmer)  
- [Krish Naik](https://www.youtube.com/user/krishnaik06/featured)
+   ##### Articles
+   [Machine Learning Mastery](https://machinelearningmastery.com/)  
+   [Towards Data Science](https://towardsdatascience.com/)  
+   [ML Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)  
+   [Kaggle(for datasets and competitions)](https://www.kaggle.com/)  
+   
+   ##### Roadmap for machine learning and deep learning
+   [roadmap ppt](https://drive.google.com/file/d/1k-0IVFoalJScWopjhneJG63iPoGF-QY-/view?usp=sharing)
+   
+   ##### Courses
+   [Mathematics for Machine Learning(Coursera specialisation)](https://www.coursera.org/specializations/mathematics-machine-learning)  
+   [Andrew NG(Coursera)](https://www.coursera.org/learn/machine-learning)  
+   [Deep Learning(Coursera Specialisation)](https://www.coursera.org/specializations/deep-learning)  
+   
+   ##### NLP specialization
+   [deeplearning.ai NLP specialization course](https://www.coursera.org/specializations/natural-language-processing?)
+   
+   ##### Reinforcement learning specialization
+   [coursera reinforcement learning course](https://www.coursera.org/specializations/reinforcement-learning?)
+   [deep reinforcement learning](https://www.udemy.com/course/deep-reinforcement-learning-in-python/)
+   
+   ##### Generative adversarial networks
+   [coursera gans specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+   [Ian goodfellow 2016- NIPS tutorial](https://youtu.be/HGYYEUSm-0Q)
+   [comprehensive guide and resources for gans](https://github.com/sarvasvkulpati/Awesome-GAN-Resources)
+   
+   ##### Youtube Channels
+   [StatQuest with Josh Starmer(best for understanding maths behind the algos)](https://www.youtube.com/user/joshstarmer)  
+   [Krish Naik](https://www.youtube.com/user/krishnaik06/featured)
 
 ### Java programming
 
@@ -171,10 +192,9 @@ These are courses provided by google and are free on Udacity.\
 [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 [Blockchain bootcamp of consensys](https://github.com/AemieJ/blockchain-bootcamp/settings)
 
-### UI-UX
-
-[The ultimate figma course](https://www.figma.com/resources/courses/)  
- [The ultimate sketch course](https://learnux.io/course/sketch/welcome-to-sketch)
+### UI-UX 
+  [The ultimate figma course](https://www.figma.com/resources/courses/)  
+  [The ultimate sketch course](https://learnux.io/course/sketch/welcome-to-sketch)  
 
 ### Open Source
 
@@ -189,7 +209,7 @@ Get started with open source with the links provided below:
 [Fedora CoreOS](https://docs.fedoraproject.org/en-US/fedora-coreos/)  
 [Contributing to Fedora](https://fedoramagazine.org/how-to-contribute-to-fedora/)  
 [Good first issues](https://goodfirstissue.dev/)
-
+[Version control with Git](https://www.udacity.com/course/version-control-with-git--ud123)-Free course on udacity for getting started with git.
 ### All in one repos
 
 These are repos that have various resources for multiple programming languages.
@@ -207,6 +227,11 @@ These are repos that have various resources for multiple programming languages.
 [Front-end resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents) - This amazing repo has amazing CSS resources, platforms to learning code, youtube channels you should follow, blogs to follow, and VsCode extension to install to make your life easier.
 
 [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
+
+[ACM ICPC Codebook](https://github.com/t3nsor/codebook)-This notebook is intended as reference material for a team participating in the
+ACM-ICPC World Finals or any regional competition.
+
+[Linux-101-challenge](https://github.com/acm-svnit/linux-101-challenge) - Attempt this challenge and get started with Linux
 
 ### Machine Learning
 
@@ -257,6 +282,15 @@ Following are the links to get started with machine learning:
 
 - [The Python Quants Group](http://tpq.io/)
 - [Quantopian](https://www.quantopian.com/home)
+
+### Cheatsheets
+
+- [Bootstrap](https://drive.google.com/file/d/1GG6Qiae33HCol8me6n6M6yH3FgyGAjou/view?usp=sharing)
+- [Git](https://drive.google.com/file/d/1b4WhgYTtUYSfoLBVxPMsvnHIXFn-F0ia/view?usp=sharing)
+- [Heroku](https://drive.google.com/file/d/1qY5VhL-o7p0TMT_ryAQNF0OKOu4Gkl1L/view?usp=sharing)
+- [NPM](https://drive.google.com/file/d/1DYpWla2h9ePVVO5I7hMfuFl6snRHwva9/view?usp=sharing)
+- [Terminal](https://drive.google.com/file/d/1C8jz5yKFETmGlsx1j81q4KHalSGM2F2t/view?usp=sharing)
+- [VSCode](https://drive.google.com/file/d/1OoxkQfsQ4AN6GLnOXOXMmLj1Wt1HSdev/view?usp=sharing)
 
 ## Contributing
 
