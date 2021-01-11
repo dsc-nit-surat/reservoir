@@ -1,23 +1,30 @@
 ## Reservoir
+
 All great men had simple beginnings.A library of all the resources that will help programmers when stuck or beginning something new.
 
 ## Getting Started
+
 Get started with anything you want to with the help of the reources we pooled in here.You are Welcome!
 
 ### Basic tools and command line
+
 [The Missing Semester of Your CS Education - MIT](https://missing.csail.mit.edu/)
 
 ### Python programming
 
 ##### Articles
+
 [Introduction to OOP in Python](https://realpython.com/python3-object-oriented-programming/)
 
 ##### Courses
+
 [OOP in Python - Playlist](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
 #### Books
+
 [Learn Python the Hard Way](https://files.meetup.com/18552511/Learn%20Python%20The%20Hard%20Way%203rd%20Edition%20V413HAV.pdf)\
 [Head-First Python](https://www.pdfdrive.com/head-first-python-a-brain-friendly-guide-e183836129.html)\
+[Automate the Boring stuff with Python](https://web.bii.a-star.edu.sg/~liangzhu/2017/11/02/linuxcommandline/automatetheboringstuffwithpython_new.pdf)
 [React Quickly](https://www.pdfdrive.com/react-quickly-painless-web-apps-with-react-jsx-redux-and-graphql-d158280067.html)
 
 #### python development
@@ -25,7 +32,9 @@ Get started with anything you want to with the help of the reources we pooled in
 [sentdex python tutorial](https://www.youtube.com/user/sentdex)
 
 ### Competitive Coding
- ##### Articles
+
+##### Articles
+
 [Best website for beginner in CP](https://www.geeksforgeeks.org/category/competitive-programming/)\
 [Algorithms for CP](https://cp-algorithms.com/)
 
@@ -41,86 +50,99 @@ Get started with anything you want to with the help of the reources we pooled in
 
 ### Web development
 
- #### Frontend Development
+#### Frontend Development
 
-  ##### Articles
-   [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)\
-   [A practical guide to learning front end development for beginners](https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41/)\
-   [A Beginner's Guide to Front-End Development](https://www.upwork.com/hiring/development/beginners-guide-to-front-end-development/)\
-   [Top 50 articles for learning javascript](https://medium.mybridge.co/learn-javascript-from-top-50-articles-for-the-past-year-v-2019-57a26f277f47)\
-   [Getting prepared in Web-dev skills for Hackathon](https://dev.to/hintiiita/getting-prepped-with-web-development-skills-for-a-hackathon-2a01)
+##### Articles
 
-  ##### Courses
+[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)\
+ [A practical guide to learning front end development for beginners](https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41/)\
+ [A Beginner's Guide to Front-End Development](https://www.upwork.com/hiring/development/beginners-guide-to-front-end-development/)\
+ [Top 50 articles for learning javascript](https://medium.mybridge.co/learn-javascript-from-top-50-articles-for-the-past-year-v-2019-57a26f277f47)\
+ [Getting prepared in Web-dev skills for Hackathon](https://dev.to/hintiiita/getting-prepped-with-web-development-skills-for-a-hackathon-2a01)
 
-  [Find great javascript course at egghead](https://egghead.io/)\
-  [The modern javascript tutorial](http://javascript.info/?ref=hackr.io)\
-  [Javascript 30](https://javascript30.com/)\
-  [FreeCodeCamp](https://www.freecodecamp.org/)\
-  [React](https://scrimba.com/course/glearnreact/enrolled)\
-  [The Odin Project](https://www.theodinproject.com/)
-  [App Brewery course resources](https://www.appbrewery.co/p/web-development-course-resources/)
-  ##### Youtube Channels
+##### Documentation
 
-  [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
-  [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)\
-  [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)\
-  [MIT Open Courseware](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
+[w3schools.com --HTML Tutorials](https://www.w3schools.com/html/default.asp)\
+[w3schools.com --CSS Tutorials](https://www.w3schools.com/css/default.asp)\
+[A re-introduction to JS(This really covers everything you need to recall about JS)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)\
+[React -A JS library for building UI](https://reactjs.org/docs/getting-started.html)\
 
- #### Backend Development
+##### Courses
 
-  ##### Youtube playlist
-  
-  [Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
-  
-  ##### Documentation
+[Find great javascript course at egghead](https://egghead.io/)\
+ [The modern javascript tutorial](http://javascript.info/?ref=hackr.io)\
+ [Javascript 30](https://javascript30.com/)\
+ [FreeCodeCamp](https://www.freecodecamp.org/)\
+ [React](https://scrimba.com/course/glearnreact/enrolled)\
+ [The Odin Project](https://www.theodinproject.com/)\
+ [App Brewery course resources](https://www.appbrewery.co/p/web-development-course-resources/)
 
-  [Flask Documentation](http://flask.pocoo.org/)\
-  [Django Documentation](https://docs.djangoproject.com/en/2.2/)\
-  [Node JS Documentation](https://nodejs.org/en/docs/)
+##### Youtube Channels
 
-  ##### Articles
+[Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
+ [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)\
+ [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)\
+ [MIT Open Courseware](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)\
+[Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
 
-  [Flask for Beginners](https://medium.com/datadriveninvestor/flask-for-beginners-3ea6d9849eae)\
-  [What-And-Why about Django](https://www.thecoderpedia.com/blog/what-is-django/)\
-  [Best Resources for Django](https://www.trumplearning.com/best-django-tutorial-courses-training-online/)
+#### Backend Development
 
-  ##### Courses
+##### Youtube playlist
 
-  [Django For beginners- 3hours Tutorial](https://youtu.be/OTmQOjsl0eg)\
-  [Step-wise Django for beginners](https://youtu.be/CHjXtRrhqxc)\
-  [Node JS Tutorial for Beginners - Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)\
-  [Web Programming with Flask - Intro to Computer Science - Harvard's CS50 (2018)](https://www.youtube.com/watch?v=zdgYw-3tzfI)\
-  [CS50's Web Programming with Python and JavaScript](edx.org/course/cs50s-web-programming-with-python-and-javascript)\
-  [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+[Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+
+##### Documentation
+
+[Flask Documentation](http://flask.pocoo.org/)\
+ [Django Documentation](https://docs.djangoproject.com/en/2.2/)\
+ [Node JS Documentation](https://nodejs.org/en/docs/)
+
+##### Articles
+
+[Flask for Beginners](https://medium.com/datadriveninvestor/flask-for-beginners-3ea6d9849eae)\
+ [What-And-Why about Django](https://www.thecoderpedia.com/blog/what-is-django/)\
+ [Best Resources for Django](https://www.trumplearning.com/best-django-tutorial-courses-training-online/)
+
+##### Courses
+
+[Django For beginners- 3hours Tutorial](https://youtu.be/OTmQOjsl0eg)\
+ [Step-wise Django for beginners](https://youtu.be/CHjXtRrhqxc)\
+ [Node JS Tutorial for Beginners - Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)\
+ [Web Programming with Flask - Intro to Computer Science - Harvard's CS50 (2018)](https://www.youtube.com/watch?v=zdgYw-3tzfI)\
+ [CS50's Web Programming with Python and JavaScript](edx.org/course/cs50s-web-programming-with-python-and-javascript)\
+ [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 
 ### App Development
 
-   #### Flutter
-   
-   ##### Youtube channels
+#### Flutter
 
-   [Flutter crash course to begin with](https://www.youtube.com/watch?v=x0uinJvhNxI)\
-   [Flutter designing practices](https://www.youtube.com/watch?v=WDM5k279Tjw)\
-   [Flutter state management with bloc from scratch](https://www.youtube.com/watch?v=oxeYeMHVLII)\
-   [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)\
-   For examples:\
-   [The flutter way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw/featured)\
-   [Flutter Example apps](https://github.com/iampawan/FlutterExampleApps)
-   
-   #### Documentation
-   [Flutter Documentation](https://flutter.dev/docs)\
-   [Flutter API](https://api.flutter.dev/)
-   
-   #### Java Based
-   These are courses provided by google and are free on Udacity.\
-   [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)\
-   [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)\
-   [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)\
-   [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)\
-   [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)\
-   [Android Developer Fundamentals](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB)
+##### Youtube channels
+
+[Flutter crash course to begin with](https://www.youtube.com/watch?v=x0uinJvhNxI)\
+ [Flutter designing practices](https://www.youtube.com/watch?v=WDM5k279Tjw)\
+ [Flutter state management with bloc from scratch](https://www.youtube.com/watch?v=oxeYeMHVLII)\
+ [The boring flutter channel](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)\
+ For examples:\
+ [The flutter way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw/featured)\
+ [Flutter Example apps](https://github.com/iampawan/FlutterExampleApps)
+
+#### Documentation
+
+[Flutter Documentation](https://flutter.dev/docs)\
+ [Flutter API](https://api.flutter.dev/)
+
+#### Java Based
+
+These are courses provided by google and are free on Udacity.\
+ [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)\
+ [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)\
+ [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)\
+ [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)\
+ [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)\
+ [Android Developer Fundamentals](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB)
 
 ### Machine Learning
+
    ##### Articles
    [Machine Learning Mastery](https://machinelearningmastery.com/)  
    [Towards Data Science](https://towardsdatascience.com/)  
@@ -149,29 +171,33 @@ Get started with anything you want to with the help of the reources we pooled in
    
    ##### Youtube Channels
    [StatQuest with Josh Starmer(best for understanding maths behind the algos)](https://www.youtube.com/user/joshstarmer)  
-   [Krish Naik](https://www.youtube.com/user/krishnaik06/featured)  
+   [Krish Naik](https://www.youtube.com/user/krishnaik06/featured)
 
 ### Java programming
 
-  ##### Articles
-  [Learn Java Programming](https://www.programiz.com/java-programming)
-  ##### Courses
-  [Java Tutorial For Beginners (Step by Step tutorial)](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)
+##### Articles
 
+[Learn Java Programming](https://www.programiz.com/java-programming)\
+[Javatpoint](https://www.javatpoint.com/java-tutorial)
+
+##### Courses
+
+[Java Tutorial For Beginners (Step by Step tutorial)](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)\
+[Java DSA Placement course (From Basics to Intermediate) ](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
 
 ### Blockchain
 
-  ##### Youtube channels
-  [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
-  [Blockchain bootcamp of consensys](https://github.com/AemieJ/blockchain-bootcamp/settings) 
+##### Youtube channels
 
+[Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+[Blockchain bootcamp of consensys](https://github.com/AemieJ/blockchain-bootcamp/settings)
 
 ### UI-UX 
   [The ultimate figma course](https://www.figma.com/resources/courses/)  
   [The ultimate sketch course](https://learnux.io/course/sketch/welcome-to-sketch)  
-  
 
 ### Open Source
+
 Get started with open source with the links provided below:
 
 [Contributing to Kubernetes](https://github.com/kubernetes/community/blob/master/contributors/devel/README.md)  
@@ -208,33 +234,37 @@ ACM-ICPC World Finals or any regional competition.
 [Linux-101-challenge](https://github.com/acm-svnit/linux-101-challenge) - Attempt this challenge and get started with Linux
 
 ### Machine Learning
+
 Following are the links to get started with machine learning:
 
-  ##### Articles 
-  [Building a machine learning model from scratch](https://medium.com/analytics-vidhya/building-a-machine-learning-model-to-predict-the-price-of-the-car-bc51783ba2f3)\
-  [A tour of machine learning algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)\
-  [Machine learning projects for beginners](https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners/397#iris)\
+##### Articles
 
-  ##### Books
-  [A quick review of the linear algebra concepts relevant to machine learning.](http://www.deeplearningbook.org/contents/linear_algebra.html)\
-  [Calculus](http://cs231n.stanford.edu/handouts/derivatives.pdf)\
-  [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)\
+[Building a machine learning model from scratch](https://medium.com/analytics-vidhya/building-a-machine-learning-model-to-predict-the-price-of-the-car-bc51783ba2f3)\
+ [A tour of machine learning algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)\
+ [Machine learning projects for beginners](https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners/397#iris)\
 
-  ##### Courses
-  [Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)\
-  [Andrew Ng's machine learning course on coursera](https://www.coursera.org/learn/machine-learning)\
-  [freecodecamp's courses for machine learning](https://www.freecodecamp.org/learn/)\
+##### Books
 
+[A quick review of the linear algebra concepts relevant to machine learning.](http://www.deeplearningbook.org/contents/linear_algebra.html)\
+ [Calculus](http://cs231n.stanford.edu/handouts/derivatives.pdf)\
+ [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)\
+
+##### Courses
+
+[Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)\
+ [Andrew Ng's machine learning course on coursera](https://www.coursera.org/learn/machine-learning)\
+ [freecodecamp's courses for machine learning](https://www.freecodecamp.org/learn/)\
 
 ### Algorithmic-trading
 
 #### Tutorials
+
 - [Algorithmic Trading Strategies](https://www.experfy.com/training/courses/algorithmic-trading-strategies)
-- [Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880) 
+- [Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
 - [MIT Open Courseware - Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 - [Machine Learning and Reinforcement Learning in Finance Specialization](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
 - [Machin Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
-- [Model a Quantitative Trading Strategy in R](https://www.datacamp.com/courses/model-a-quantitative-trading-strategy-in-r/) 
+- [Model a Quantitative Trading Strategy in R](https://www.datacamp.com/courses/model-a-quantitative-trading-strategy-in-r/)
 
 #### Articles
 
@@ -249,6 +279,7 @@ Following are the links to get started with machine learning:
 - [Quantitative Investing: Strategies to exploit stock market anomalies for all investors](https://www.amazon.com/Quantitative-Investing-Strategies-anomalies-investors/dp/0857193007/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 #### Communities
+
 - [The Python Quants Group](http://tpq.io/)
 - [Quantopian](https://www.quantopian.com/home)
 
@@ -263,10 +294,10 @@ Following are the links to get started with machine learning:
 
 ## Contributing
 
- Please open a PR and do follow the pattern similar to what's currently there. PR should include the link and a short note describing what the link contains or is about.\
+Please open a PR and do follow the pattern similar to what's currently there. PR should include the link and a short note describing what the link contains or is about.\
  Do contribute if you find a well written article, a good tutorial, playlist or anything similar that could help devs.
 
 ## Acknowledgments
 
- All the team members of DSC-NIT Surat have contributed to this amazing idea.\
+All the team members of DSC-NIT Surat have contributed to this amazing idea.\
  Cheers to all!
