@@ -116,6 +116,8 @@ Get started with anything you want to with the help of the reources we pooled in
 
 #### Flutter
 
+ [Flutter open source Apps](https://github.com/tortuvshin/open-source-flutter-apps#tools)
+
 ##### Youtube channels
 
 [Flutter crash course to begin with](https://www.youtube.com/watch?v=x0uinJvhNxI)\
@@ -159,7 +161,7 @@ These are courses provided by google and are free on Udacity.\
    
    ##### NLP specialization
    [deeplearning.ai NLP specialization course](https://www.coursera.org/specializations/natural-language-processing?)
-   
+
    ##### Reinforcement learning specialization
    [coursera reinforcement learning course](https://www.coursera.org/specializations/reinforcement-learning?)
    [deep reinforcement learning](https://www.udemy.com/course/deep-reinforcement-learning-in-python/)
